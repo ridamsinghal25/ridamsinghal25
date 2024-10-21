@@ -10,8 +10,7 @@
 - 🔭 I’m currently working on **Notes Library Project**  
 - 🚀 I have worked on **more than 3 full stack projects**  
 - 📦 I have deployed **2 apps** that are currently used by users  
-- 💬 Ask me about **JavaScript, MERN, and Next.js**  
-- 📫 How to reach me: **[ridamsinghal25@gmail.com](mailto:ridamsinghal25@gmail.com)**  
+- 💬 Ask me about **JavaScript, MERN, and Next.js** 
 - ⚡ Fun fact: **I think I am funny**  
 
 <!-- Stylish horizontal line -->

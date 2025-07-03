@@ -1,5 +1,3 @@
-![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
-
 <h1 align="center" style="color: #3A3A3A;">Hi 👋, I'm Ridam Singhal</h1>
 <h3 align="center" style="color: #555555;">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
